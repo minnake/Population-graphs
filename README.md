@@ -3,7 +3,7 @@
  
  https://mimmitkoodaa.ohjelmistoebusiness.fi/mimmit-koodaa-mooc-sympa/
  
-Web Coding for Beginners: Population Graphs
+<h2>Web Coding for Beginners: Population Graphs</h2>
 
 Could I build a working web application in one day without any prior knowledge of coding? Yes you can! On this #mimmitkoodaa MOOC by Sympa you will build a simple web app that can visualize population graphs for different countries.
 
